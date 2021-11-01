@@ -20,3 +20,9 @@ Req 3:
 1. A post can have multiple comments. Comments will show the user who commented and the comment.
 2. Need to add pagination in the post and in the comments of the post.
 3. User have the option to create their username. Update the user model.
+
+bcrypt
+validator
+jwt
+passport
+sequelize
